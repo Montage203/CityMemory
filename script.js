@@ -6,7 +6,8 @@ const characters = [
     "Raiwan", "Moxir", "Weiden", "leiloup", "Volagal", "Cilna", "Galadia", "Flare", "Jimmy",
     "Svelte", "Bereboule", "Azock", "Aylhem", "Constvnce", "Smouks", "toinou", "uruwn",
     "zirtec", "Elci", "Rylai", "Marion", "balola", "tired", "Cold", "Ysera", "bebisitas",
-    "Yvess5", "AxeI", "Auryanna", "Netsky", "Niko", "Salius", "Sophiane", "Alex", "Zoevsky"
+    "Yvess5", "AxeI", "Auryanna", "Netsky", "Niko", "Salius", "Sophiane", "Alex", "Zoevsky",
+    "Atsukio"
   ];
   
 
